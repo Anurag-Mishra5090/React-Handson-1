@@ -1,0 +1,46 @@
+h1{
+  text-align: center;
+  color: rgb(53, 3, 53);
+  text-shadow: 2px 2px 2px grey;
+ 
+}
+body{
+ background-color: rgb(168, 168, 214);
+  
+}
+.btn-div{
+  display: flex;
+  justify-content: space-around;
+  width: 30%;
+  margin: auto;
+}
+button{
+  background-color: blue;
+  width: 100%;
+  border-radius: 50px;
+  color: white;
+  padding: 10px 20px;
+  
+  
+}
+button:hover{
+  background-color: green;
+  box-shadow: 5px 5px 2px rgb(190, 184, 184);
+}
+
+.btn-style{
+  display: flex;
+  justify-content: space-evenly;
+  margin: auto;
+
+}
+
+.boxes{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  margin: 2%;
+  
+  
+  width: 100%;
+}

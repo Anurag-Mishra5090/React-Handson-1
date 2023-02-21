@@ -1,0 +1,13 @@
+.afterclickclass{
+    background: radial-gradient( red,black,blue);
+    color: white;
+    border-radius: 20px;
+    border: 10px solid rgb(18, 65, 233);
+   
+    text-align: center;
+    margin-top: 100px;
+    padding: 20% 10px;
+    font-size: 2em;
+   
+  height: 300px;
+}
